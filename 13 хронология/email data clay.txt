@@ -1,0 +1,1560 @@
+MIME-Version: 1.0
+Date: Fri, 14 Nov 2025 22:38:29 +0300
+Message-ID: <CANODMs507GErN6tGhQSLqRMhFTSh0ehQw7ScUW3T_DMo=LmAwQ@mail.gmail.com>
+Subject: 
+From: "григорий Вахрушев" <g.vakhrushev1993@gmail.com>
+To: admin@claymath.org
+Cc: contactus@ias.edu, post@gv.mpg.de, presse@gv.mpg.de, biology@mit.edu, rector@rector.msu.ru, info@lbl.gov, contact@nas.edu, info@kva.se, integral@math.mit.edu, math_web_help@mit.edu, info@harvard.edu, info@caltech.edu, administration@royalhistsoc.org
+Content-Type: multipart/mixed; boundary="0000000000006af2ce0643932415"
+
+--0000000000006af2ce0643932415
+Content-Type: multipart/alternative; boundary="0000000000006af2cc0643932413"
+
+--0000000000006af2cc0643932413
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+*DRAFT LETTER TO CMI (WITH FAQ, GITHUB & ARXIV ENDORSEMENT REQUEST)*
+
+
+To: Clay Mathematics Institute
+
+Attn: Board of Directors and Scientific Advisory Board
+
+One Bow Street, Cambridge, MA 02138, USA
+
+
+Subject: Formal request for evaluation of =CF=86-CoP framework under D0 and
+P1=E2=80=93P6 and 72-hour response on record
+
+
+Dear Members of the Clay Mathematics Institute,
+
+
+My name is *Grigory S. Vakhrushev*, independent researcher. I am writing to
+you not as a =E2=80=9Ccompeting theory author=E2=80=9D asking for favor, bu=
+t as a person
+who has:
+
+
+   1.
+
+   Presented a *minimal, internally consistent mathematical framework* buil=
+t
+   strictly on *distinguishability* and standard historical principles of
+   mathematics and physics (D0 and P1=E2=80=93P6).
+   2.
+
+   Provided a *fully reproducible computational certificate* (Jupyter/Colab
+   notebook) implementing this framework.
+   3.
+
+   Published a *quantitative historical analysis* of the cost of systematic
+   delays in paradigm recognition.
+   4.
+
+   Publicly recorded these materials (GitHub, IPFS, blockchain) so that
+   they are no longer a private claim.
+
+
+
+This letter is a *formal request* that Clay Mathematics Institute (CMI):
+
+
+   -
+
+   acknowledge receipt of this framework,
+   -
+
+   state explicitly whether it accepts or rejects the core protocol (D0 and
+   P1=E2=80=93P6),
+   -
+
+   and provide, within *72 hours* from receipt, a clear position:
+
+   *=E2=80=9CWe accept this as a subject for serious evaluation=E2=80=9D* o=
+r *=E2=80=9CWe reject
+   it, and here is the precise mathematical reason.=E2=80=9D*
+
+
+
+Anything else (including silence) will be treated as a *conscious decision*=
+ to
+ignore a minimal D0/P1=E2=80=93P6-compliant framework that directly address=
+es the
+Poincar=C3=A9 conjecture and P vs NP, with quantifiable humanitarian cost o=
+f
+further delay.
+
+------------------------------
+
+
+*1. What is the protocol? (D0 and P1=E2=80=93P6)*
+
+
+The framework does *not* start from =E2=80=9Cmy axioms=E2=80=9D. It starts =
+from what your
+own community already relies on in practice:
+
+
+   -
+
+   *D0 (Distinguishability):*
+
+   To exist in a theory is to be distinguishable from at least one other
+   state.
+
+   Without this, there is no difference between symbols, axioms, theorems
+   or nonsense; all formal systems, including ZFC and PA, collapse into a
+   single undifferentiated state.
+   -
+
+   *P1 =E2=80=93 MDL (Rissanen):* The core must be short; pedagogy does not=
+ count.
+   -
+
+   *P2 =E2=80=93 Kolmogorov complexity:* Minimize the code/program; externa=
+l flags
+   that increase K are epicycles.
+   -
+
+   *P3 =E2=80=93 Occam=E2=80=99s razor:* Prefer strictly simpler descriptio=
+ns at equal
+   explanatory power. No parameters without reduction of exceptions.
+   -
+
+   *P4 =E2=80=93 Noether:* Symmetry =E2=86=94 conservation law: the bridge =
+between geometry
+   and physics.
+   -
+
+   *P5 =E2=80=93 Landauer:* Erasing a bit has physical cost. Memory and
+   reversibility cannot be =E2=80=9Cignored with no penalty=E2=80=9D.
+   -
+
+   *P6 =E2=80=93 Commutative diagrams:* Translations between Math / Geometr=
+y /
+   Physics / CS must commute (TR=3D1); otherwise the theory is inconsistent
+   across languages.
+
+
+
+These are *not my private axioms*; they are *the distilled standards of
+your own tradition*. Rejecting any of P1=E2=80=93P6 means explicitly accept=
+ing:
+
+
+   -
+
+   non-minimal descriptions,
+   -
+
+   epicycles,
+   -
+
+   broken translations between fields.
+
+
+
+In other words: rejecting P1=E2=80=93P6 is rejecting the historical method =
+by which
+mathematics has selected its best theories.
+
+------------------------------
+
+
+*2. What is provided to CMI?*
+
+
+I have already attached / published the following:
+
+
+   1.
+
+   *Mathematical core:*
+
+   *=E2=80=9C=CE=A6=E2=80=93=CE=A8 CoP: D0 =E2=86=92 S=C2=B3 and P vs NP (U=
+niversal Proof v1.0)=E2=80=9D*
+
+   -
+
+      Starts from D0.
+      -
+
+      Derives the fixed-point equation r =3D 1 + 1/r and the =CF=86=E2=80=
+=93=CF=88 pair as the
+      unique scale-invariant solution under K-minimality.
+      -
+
+      Uses three independent bits (k,c,q) and =CF=86=E2=80=93=CF=88 to show=
+ that the minimal
+      3D carrier with isotropic curvature and =CF=80=E2=82=81=3D0 is S=C2=
+=B3 (universal Poincar=C3=A9,
+      *T_all*).
+      -
+
+      Derives a D-dependent statement about P vs NP:
+
+      -
+
+         D=3D4/5 (memory channel closed) =E2=87=92 P \ne NP
+         -
+
+         D =E2=89=A5 6 (memory channel open inside =CF=86=E2=80=93=CF=88 co=
+re) =E2=87=92 P =3D NP
+
+      -
+
+      The =CF=86=E2=80=93=CF=88 CoP framework passes P1=E2=80=93P6:
+
+      minimal K, no =CF=88 outside the core, no epicycles, TR=3D1.
+
+   2.
+
+   *Topological unfolding document:*
+
+   *=E2=80=9C3.2 Topology Unfoldings =E2=80=94 =D0=91=D0=95=D0=A2=D0=9E=D0=
+=9D v2=E2=80=9D*
+
+   -
+
+      Shows that the sequence of D-levels (4,5,6,8,10,11,12,13) and the
+      four operators (F/H/P/C) are *not arbitrary*, but the unique minimal
+      unfolding of distinguishability on S=C2=B9 into a 3D carrier under P1=
+=E2=80=93P6.
+      -
+
+      Any attempt to remove one of these steps loses distinguishability
+      (violates D0) or increases K (violates P1=E2=80=93P3).
+
+   3.
+
+   *Historical / quantitative analysis:*
+
+   *=E2=80=9C45 Million Deaths and $40 Trillion in Losses: Quantitative Ana=
+lysis of
+   Scientific Recognition Delays (1847=E2=80=932020)=E2=80=9D*
+
+   -
+
+      Documents ~45=E2=80=9350 million preventable deaths and $25=E2=80=934=
+0 trillion in
+      losses from institutional delays in accepting paradigm-level results =
+over
+      170+ years.
+      -
+
+      Shows that the =E2=80=9Cwait 20=E2=80=9340 more years=E2=80=9D patter=
+n is not neutral; it has
+      an *objective humanitarian and economic cost* per year.
+
+   4.
+
+   *Public demand / legal framing:*
+
+   *=E2=80=9CPublic Demand to the Clay Mathematics Institute: Humanity vs
+   Epicyclism =E2=80=94 Point Zero=E2=80=9D*
+
+   -
+
+      Argues that the existing Millennium Prize contract, by requiring
+      solutions strictly =E2=80=9Cwithin the accepted paradigm=E2=80=9D, is=
+ logically
+      incompatible with genuine paradigm-level breakthroughs.
+      -
+
+      Proposes *$6M* as the minimal recognition of 25 years of reputational
+      benefit while 6 problems remain =E2=80=9Cunsolved=E2=80=9D under CMI=
+=E2=80=99s own criteria, and
+      minimal =CF=86-CoP solutions are not even evaluated.
+      -
+
+      States that all funds are intended to be redirected to women and
+      children (the primary victims of systemic delays), not to personal
+      enrichment.
+
+   5.
+
+   *Reproducible code (computational certificate):*
+
+   -
+
+      Jupyter notebook: math_navigator.ipynb (attached).
+      -
+
+      Public Colab link:
+
+
+      https://colab.research.google.com/drive/1NmRFLFcn6LXPQn4roHGK-fllRD5z=
+VTsh?usp=3Dsharing
+      -
+
+      The notebook is an *export from Colab with all outputs saved*. It is
+      *self-contained*:
+
+      -
+
+         fixed random seeds,
+         -
+
+         no external data downloads,
+         -
+
+         complete generation of all results and reports in a single run of
+         the main cell.
+
+      -
+
+      The notebook implements the =CF=86=E2=80=93CoP logic as a *literal,
+      machine-checkable certificate*.
+
+      Anyone can open and inspect it without re-running; or re-run it to
+      verify that the outputs are reproducible.
+
+   6.
+
+   *Public repository / permanence:*
+
+   -
+
+      GitHub repository (public, time-stamped):
+
+      https://github.com/gvakhrushev/phi-psi-love-womens-theory
+
+      This repository contains the core theoretical documents, code, and
+      references, and is already publicly visible for independent scrutiny.
+
+   7.
+
+   *arXiv submission and endorsement request:*
+
+   As an *independent researcher*, I cannot submit my work to arXiv without
+   endorsement from an established member of the community.
+
+   The arXiv endorsement link for my account is:
+
+   https://arxiv.org/auth/endorse?x=3D79RZ3E
+
+   Without such endorsement, the broader community *cannot even access* my
+   work on arXiv in the standard way to review it formally.
+
+   I therefore explicitly ask CMI members (or any qualified endorser) to
+   consider endorsing my arXiv submissions after examining the attached
+   materials. This is not a favor to me personally; it is a necessary step =
+to
+   allow the community to *see and review* the work using the normal
+   academic infrastructure.
+
+
+
+------------------------------
+
+
+*3. 72-hour deadline: why it is justified*
+
+
+The *72 hours* requested here are *not* meant for a full formal verdict on
+every equation. They are for three very basic actions:
+
+
+   1.
+
+   Download and open the provided documents and notebook.
+   2.
+
+   Run or at least inspect the main cell of the notebook (Colab or local
+   Jupyter).
+   3.
+
+   Provide a *binary response* on the record:
+
+
+
+
+
+   -
+
+   =E2=80=9CYes, we recognize D0 and P1=E2=80=93P6 as a valid protocol and =
+we will evaluate
+   =CF=86=E2=80=93CoP accordingly.=E2=80=9D
+
+   -
+
+   or
+
+   -
+
+   =E2=80=9CNo, we reject this protocol, and here is precisely which of D0 =
+or P1=E2=80=93P6
+   we deny, and why.=E2=80=9D
+
+
+
+
+Given that:
+
+
+   -
+
+   The Poincar=C3=A9 conjecture was effectively recognized as solved over *=
+20
+   years ago*.
+   -
+
+   P vs NP remains officially open *within a framework that cannot express
+   the D-dependent result* produced by =CF=86=E2=80=93CoP (because =CF=88 a=
+nd the D-channel
+   of memory are externalized).
+   -
+
+   The attached historical analysis gives a *per-day cost* (in deaths and
+   economic loss) of delaying paradigm-level recognition,
+
+
+
+asking for *3 days* to:
+
+
+   -
+
+   read,
+   -
+
+   run,
+   -
+
+   and state a position
+
+
+
+is not only reasonable, it is *minimal*.
+
+------------------------------
+
+
+*4. FAQ: Anticipated objections and strict answers*
+
+
+
+*Q1: =E2=80=9CWe do not accept your framework; we work in ZFC / PA / our us=
+ual
+axiomatics.=E2=80=9D*
+
+
+*Answer:*
+
+D0 and P1=E2=80=93P6 are *prior* to any choice of ZFC, PA or other formal s=
+ystem:
+
+
+   -
+
+   Without D0 (distinguishability), no formal system can even distinguish
+   symbols, axioms, theorems or proofs.
+   -
+
+   P1=E2=80=93P6 are not =E2=80=9Cmy axioms=E2=80=9D; they are the historic=
+al standards by which
+   your community has judged elegance, power and universality of theories.
+
+
+
+To reject D0 is to destroy ZFC/PA themselves.
+
+To reject P1=E2=80=93P6 is to say openly:
+
+
+=E2=80=9CWe are willing to accept non-minimal, epicyclic, non-commutative (=
+across
+fields) descriptions as our standard.=E2=80=9D
+
+
+That is not a mathematical refutation of =CF=86=E2=80=93CoP; it is a *decla=
+ration of
+preference for epicycles*.
+
+
+If CMI chooses this position, it must say so *explicitly*:
+
+
+   -
+
+   =E2=80=9CWe do not accept P1=E2=80=93P6 as binding,=E2=80=9D
+   -
+
+   and explain to the public why the Institute now considers epicyclic,
+   non-minimal frameworks acceptable.
+
+
+
+------------------------------
+
+
+*Q2: =E2=80=9CYou did not solve the **classical** Poincar=C3=A9 conjecture,=
+ only some
+generalized variant.=E2=80=9D*
+
+
+*Answer:*
+
+The =CF=86=E2=80=93=CE=A8 CoP framework distinguishes between:
+
+
+   -
+
+   *T=E2=82=80:* the classical Poincar=C3=A9 conjecture as formulated and s=
+olved via
+   Ricci flow;
+   -
+
+   *T_all:* the universal Poincar=C3=A9 statement in the =CF=86=E2=80=93CoP=
+ language (minimal
+   K on {=CF=86,=CF=88}, isotropy in modulus, =CF=80=E2=82=81=3D0 =E2=87=92=
+ S=C2=B3).
+
+
+
+The claim *is not* that Perelman=E2=80=99s work is =E2=80=9Cwrong=E2=80=9D.=
+ The claim is:
+
+
+   -
+
+   Ricci flow + surgery is a *non-minimal, =CF=88-incomplete* route to T=E2=
+=82=80
+   (passes correctness, fails =CF=88-test and TR=3D1).
+   -
+
+   =CF=86=E2=80=93CoP provides a *shorter, universal core* (T_all) that inc=
+ludes T=E2=82=80 as a
+   special case and satisfies D0 + P1=E2=80=93P6.
+
+
+
+If CMI believes T_all is not equivalent to T=E2=82=80, the Institute must:
+
+
+   1.
+
+   Precisely identify *where the equivalence fails* (which step of the
+   D0=E2=86=92=CF=86=E2=80=93=CF=88=E2=86=92K/TR chain is invalid), and
+   2.
+
+   Provide either
+
+   -
+
+      a *counterexample* to T_all, or
+      -
+
+      a *shorter K-core* that solves both Poincar=C3=A9 and the D-dependent=
+ P vs
+      NP within D0 and P1=E2=80=93P6.
+
+
+
+
+Simply saying =E2=80=9Cthis is another problem=E2=80=9D without such analys=
+is is not a
+mathematical objection; it is an evasion.
+
+------------------------------
+
+
+*Q3: =E2=80=9CYou are redefining P vs NP in another model (with D); that is=
+ not the
+standard problem.=E2=80=9D*
+
+
+*Answer:*
+
+The =CF=86=E2=80=93CoP framework introduces D as *information-geometric dim=
+ension of the
+scene* and proves:
+
+
+   -
+
+   D=3D4/5 (closed memory channel) =E2=87=92 P \ne NP,
+   -
+
+   D=E2=89=A56 (open memory channel inside =CF=86=E2=80=93=CF=88 core) =E2=
+=87=92 P =3D NP.
+
+
+
+This is not an arbitrary redefinition; it is a structural statement inside
+the same K/TR/=CF=88 protocol.
+
+
+If CMI or complexity theorists claim that this is =E2=80=9Cnot the same P v=
+s NP
+problem=E2=80=9D, they must:
+
+
+   1.
+
+   Show a *mapping* from standard TM/RAM/circuit models to a D-less
+   description *without loss of D0 or P1=E2=80=93P6*,
+   2.
+
+   Or, alternatively, accept that the standard formalization is a *restrict=
+ed
+   subscene* (with =CF=88 and memory forced out), and therefore cannot
+   legitimately block a more complete D-dependent framework.
+
+
+
+Again: the objection must be *formal* (=E2=80=9Chere is where your mapping =
+fails=E2=80=9D),
+not rhetorical (=E2=80=9Cwe don=E2=80=99t like your dimension D=E2=80=9D).
+
+------------------------------
+
+
+*Q4: =E2=80=9CCode is not a formal proof.=E2=80=9D*
+
+
+*Answer:*
+
+The Jupyter/Colab notebook math_navigator.ipynb is not offered *instead of*=
+ a
+proof, but as a *computational certificate*that:
+
+
+   -
+
+   directly instantiates the =CF=86=E2=80=93CoP logic,
+   -
+
+   uses fixed seeds and no external data,
+   -
+
+   and generates all relevant outputs reproducibly.
+
+
+
+The mathematical core (=CE=A6=E2=80=93=CE=A8 CoP document) already provides=
+ the theoretical
+chain. The notebook:
+
+
+   -
+
+   shows there is *no hidden hand-waving*;
+   -
+
+   allows any expert to *inspect every step concretely*.
+
+
+
+If CMI believes there is a specific error in the mathematics, it must point
+to the *exact location* either:
+
+
+   -
+
+   in the analytic chain (D0 =E2=86=92 =CF=86=E2=80=93=CF=88 =E2=86=92 K/TR=
+/=CF=88), or
+   -
+
+   in the algorithmic implementation in the notebook.
+
+
+
+A generic =E2=80=9Ccode is not proof=E2=80=9D is not an objection; it is an=
+ excuse not to
+look.
+
+------------------------------
+
+
+*Q5: =E2=80=9C72 hours is too short for us.=E2=80=9D*
+
+
+*Answer:*
+
+
+The 72-hour window is *not* for a complete reworking of the theory. It is
+for:
+
+
+   -
+
+   acknowledging receipt,
+   -
+
+   reading the core statements,
+   -
+
+   inspecting or running the notebook,
+   -
+
+   and stating *one of two positions*:
+
+
+
+
+
+   1.
+
+   =E2=80=9CWe accept D0 and P1=E2=80=93P6 as a valid protocol and will eva=
+luate =CF=86=E2=80=93CoP
+   accordingly, in a specified time frame T.=E2=80=9D
+
+   2.
+
+   =E2=80=9CWe reject this protocol, and we explicitly deny principle X (D0=
+ or one
+   of P1=E2=80=93P6), for the following reason.=E2=80=9D
+
+
+
+
+Given that:
+
+
+   -
+
+   over 20 years have passed since the Poincar=C3=A9 recognition,
+   -
+
+   and P vs NP remains officially open in a framework provably too narrow
+   to express the D-dependent result,
+
+
+
+3 days to give a *yes/no + reason* is minimal.
+
+Each extra day of vague delay, in the face of the attached historical
+analysis, becomes a *conscious choice*, not an accident.
+
+------------------------------
+
+
+*Q6: =E2=80=9CWe cannot be held responsible for deaths and economic losses.=
+=E2=80=9D*
+
+
+*Answer:*
+
+
+The historical document does *not* claim that CMI alone is responsible for
+all 45=E2=80=9350 million deaths and trillions in losses. It shows:
+
+
+   -
+
+   there is a *systematic pattern*: paradigm-level delays cost real lives
+   and money;
+   -
+
+   *institutions* that control recognition timelines share responsibility
+   once they are explicitly warned.
+
+
+
+Before this letter, CMI could argue it was =E2=80=9Cnot aware=E2=80=9D of a=
+ minimal
+D0/P1=E2=80=93P6-compliant framework that unifies Poincar=C3=A9 and P vs NP=
+.
+
+*After this letter and the 72-hour window*, that argument is no longer
+available.
+
+
+From that moment, continued non-engagement becomes:
+
+
+   -
+
+   a conscious choice to prefer the comfort of existing epicyclic
+   frameworks over
+   -
+
+   the obligation to evaluate a minimal, reproducible, publicly documented
+   alternative.
+
+
+
+Whether this falls under *criminal negligence* in specific jurisdictions is
+for legal systems to decide. But morally and historically, the
+responsibility is clear.
+
+------------------------------
+
+
+*5. What I am explicitly asking CMI to do*
+
+
+Within *72 hours* of receiving this letter and links:
+
+
+   1.
+
+   *Acknowledge receipt* of:
+
+   -
+
+      the three main documents (mathematical core, topology unfolding,
+      historical analysis),
+      -
+
+      the public demand document,
+      -
+
+      the notebook math_navigator.ipynb,
+      -
+
+      and the GitHub/Colab/chain references.
+
+   2.
+
+   State in writing (for the record):
+
+   -
+
+      Whether CMI *accepts D0 and P1=E2=80=93P6* as a valid protocol for ev=
+aluating
+      =CF=86=E2=80=93CoP.
+      -
+
+      If *yes*: outline a *concrete evaluation procedure and timeline*.
+      -
+
+      If *no*: explicitly indicate *which of D0 or P1=E2=80=93P6* CMI rejec=
+ts, and
+      why.
+
+   3.
+
+   Confirm whether CMI is willing to:
+
+   -
+
+      consider *modifying the Millennium Prize conditions* so that minimal
+      =CF=86=E2=80=93CoP-style certificates are, in principle, admissible;
+      -
+
+      engage with =CF=86=E2=80=93CoP with the same seriousness as it engage=
+d with Ricci
+      flow, but under the stricter D0/P1=E2=80=93P6 protocol.
+
+   4.
+
+   Additionally, as part of enabling transparent community review, I ask
+   that CMI members (or any qualified endorser) consider *endorsing my
+   arXiv submissions* via
+
+   https://arxiv.org/auth/endorse?x=3D79RZ3E,
+
+   so that the work can be accessed and evaluated through the standard
+   academic channel, rather than remaining effectively invisible due to lac=
+k
+   of institutional affiliation.
+
+
+
+If the Institute chooses *silence* or a *purely rhetorical dismissal* witho=
+ut
+addressing D0/P1=E2=80=93P6, that will be treated =E2=80=94 and publicly do=
+cumented =E2=80=94 as:
+
+
+A deliberate refusal to apply the very standards (minimality, absence of
+epicycles, cross-field coherence) that mathematics has historically used to
+recognize its greatest advances.
+
+
+------------------------------
+
+Thank you for your time and attention.
+
+I am available for any technical questions and will gladly assist your
+experts in navigating the materials if needed.
+
+
+Sincerely,
+
+
+*Grigory S. Vakhrushev*
+
+Independent Research Initiative
+
+Email: g.vakhrushev1993@gmail.com
+
+GitHub: https://github.com/gvakhrushev/phi-psi-love-womens-theory
+
+https://colab.research.google.com/drive/1NmRFLFcn6LXPQn4roHGK-fllRD5zVTsh?u=
+sp=3Dsharing
+FLFcn6LXPQn4roHGK-fllRD5zVTsh?usp=3Dsharing
+
+--0000000000006af2cc0643932413
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div style=3D"font-family:Helvetica;font-size:20px"><div s=
+tyle=3D"overflow-wrap: break-word;"><p class=3D"gmail-p1" style=3D"color:rg=
+b(0,0,0)"><b>DRAFT LETTER TO CMI (WITH FAQ, GITHUB &amp; ARXIV ENDORSEMENT =
+REQUEST)</b><b></b></p><p class=3D"gmail-p2" style=3D"color:rgb(0,0,0)"><br=
+></p><blockquote style=3D"color:rgb(14,14,14);font-size:16px;margin:0px 0px=
+ 0px 15px;line-height:normal;font-size-adjust:none;font-kerning:auto;font-v=
+ariant-alternates:normal;font-variant-numeric:normal;font-variant-east-asia=
+n:normal;font-feature-settings:normal">To: Clay Mathematics Institute</bloc=
+kquote><blockquote style=3D"color:rgb(14,14,14);font-size:16px;margin:0px 0=
+px 0px 15px;line-height:normal;font-size-adjust:none;font-kerning:auto;font=
+-variant-alternates:normal;font-variant-numeric:normal;font-variant-east-as=
+ian:normal;font-feature-settings:normal">Attn: Board of Directors and Scien=
+tific Advisory Board</blockquote><blockquote style=3D"color:rgb(14,14,14);f=
+ont-size:16px;margin:0px 0px 0px 15px;line-height:normal;font-size-adjust:n=
+one;font-kerning:auto;font-variant-alternates:normal;font-variant-numeric:n=
+ormal;font-variant-east-asian:normal;font-feature-settings:normal">One Bow =
+Street, Cambridge, MA 02138, USA</blockquote><blockquote style=3D"color:rgb=
+(14,14,14);font-size:16px;margin:0px 0px 0px 15px;line-height:normal;font-s=
+ize-adjust:none;font-kerning:auto;font-variant-alternates:normal;font-varia=
+nt-numeric:normal;font-variant-east-asian:normal;font-feature-settings:norm=
+al;min-height:19.7px"><br></blockquote><blockquote style=3D"color:rgb(14,14=
+,14);font-size:16px;margin:0px 0px 0px 15px;line-height:normal;font-size-ad=
+just:none;font-kerning:auto;font-variant-alternates:normal;font-variant-num=
+eric:normal;font-variant-east-asian:normal;font-feature-settings:normal">Su=
+bject: Formal request for evaluation of =CF=86-CoP framework under D0 and P=
+1=E2=80=93P6 and 72-hour response on record</blockquote><p class=3D"gmail-p=
+2" style=3D"color:rgb(0,0,0)"><br></p><p class=3D"gmail-p5" style=3D"color:=
+rgb(0,0,0)">Dear Members of the Clay Mathematics Institute,</p><p class=3D"=
+gmail-p2" style=3D"color:rgb(0,0,0)"><br></p><p class=3D"gmail-p5" style=3D=
+"color:rgb(0,0,0)">My name is=C2=A0<span class=3D"gmail-s1"><b>Grigory S. V=
+akhrushev</b></span>, independent researcher. I am writing to you not as a =
+=E2=80=9Ccompeting theory author=E2=80=9D asking for favor, but as a person=
+ who has:</p><div style=3D"color:rgb(0,0,0)"><span class=3D"gmail-s2"></spa=
+n><br class=3D"gmail-webkit-block-placeholder"></div><ol start=3D"1" style=
+=3D"color:rgb(0,0,0)"><li><p class=3D"gmail-p1">Presented a=C2=A0<span clas=
+s=3D"gmail-s1"><b>minimal, internally consistent mathematical framework</b>=
+</span>=C2=A0built strictly on=C2=A0<i>distinguishability</i>=C2=A0and stan=
+dard historical principles of mathematics and physics (D0 and P1=E2=80=93P6=
+).</p></li><li><p class=3D"gmail-p1">Provided a=C2=A0<span class=3D"gmail-s=
+1"><b>fully reproducible computational certificate</b></span>=C2=A0(Jupyter=
+/Colab notebook) implementing this framework.</p></li><li><p class=3D"gmail=
+-p1">Published a=C2=A0<span class=3D"gmail-s1"><b>quantitative historical a=
+nalysis</b></span>=C2=A0of the cost of systematic delays in paradigm recogn=
+ition.</p></li><li><p class=3D"gmail-p1">Publicly recorded these materials =
+(GitHub, IPFS, blockchain) so that they are no longer a private claim.</p><=
+/li></ol><div style=3D"color:rgb(0,0,0)"><br class=3D"gmail-webkit-block-pl=
+aceholder"></div><p class=3D"gmail-p2" style=3D"color:rgb(0,0,0)"><br></p><=
+p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">This letter is a=C2=A0<span=
+ class=3D"gmail-s1"><b>formal request</b></span>=C2=A0that Clay Mathematics=
+ Institute (CMI):</p><div style=3D"color:rgb(0,0,0)"><span class=3D"gmail-s=
+2"></span><br class=3D"gmail-webkit-block-placeholder"></div><ul style=3D"c=
+olor:rgb(0,0,0)"><li><p class=3D"gmail-p1">acknowledge receipt of this fram=
+ework,</p></li><li><p class=3D"gmail-p1">state explicitly whether it accept=
+s or rejects the core protocol (D0 and P1=E2=80=93P6),</p></li><li><p class=
+=3D"gmail-p1">and provide, within=C2=A0<span class=3D"gmail-s1"><b>72 hours=
+</b></span>=C2=A0from receipt, a clear position:</p><p class=3D"gmail-p2"><=
+b>=E2=80=9CWe accept this as a subject for serious evaluation=E2=80=9D</b><=
+span class=3D"gmail-s2">=C2=A0or=C2=A0</span><b>=E2=80=9CWe reject it, and =
+here is the precise mathematical reason.=E2=80=9D</b></p></li></ul><div sty=
+le=3D"color:rgb(0,0,0)"><br class=3D"gmail-webkit-block-placeholder"></div>=
+<p class=3D"gmail-p2" style=3D"color:rgb(0,0,0)"><br></p><p class=3D"gmail-=
+p5" style=3D"color:rgb(0,0,0)">Anything else (including silence) will be tr=
+eated as a=C2=A0<span class=3D"gmail-s1"><b>conscious decision</b></span>=
+=C2=A0to ignore a minimal D0/P1=E2=80=93P6-compliant framework that directl=
+y addresses the Poincar=C3=A9 conjecture and P vs NP, with quantifiable hum=
+anitarian cost of further delay.</p><div style=3D"color:rgb(0,0,0)"><span c=
+lass=3D"gmail-s2"></span><br class=3D"gmail-webkit-block-placeholder"></div=
+><hr style=3D"color:rgb(255,255,255)"><div style=3D"color:rgb(0,0,0)"><br c=
+lass=3D"gmail-webkit-block-placeholder"></div><div style=3D"color:rgb(0,0,0=
+)"><span class=3D"gmail-s2"></span><br class=3D"gmail-webkit-block-placehol=
+der"></div><h2 style=3D"color:rgb(0,0,0)"><b>1. What is the protocol? (D0 a=
+nd P1=E2=80=93P6)</b></h2><div style=3D"color:rgb(0,0,0)"><br class=3D"gmai=
+l-webkit-block-placeholder"></div><p class=3D"gmail-p2" style=3D"color:rgb(=
+0,0,0)"><br></p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">The framew=
+ork does=C2=A0<span class=3D"gmail-s1"><b>not</b></span>=C2=A0start from =
+=E2=80=9Cmy axioms=E2=80=9D. It starts from what your own community already=
+ relies on in practice:</p><div style=3D"color:rgb(0,0,0)"><span class=3D"g=
+mail-s2"></span><br class=3D"gmail-webkit-block-placeholder"></div><ul styl=
+e=3D"color:rgb(0,0,0)"><li><p class=3D"gmail-p1"><b>D0 (Distinguishability)=
+:</b><b></b></p><p class=3D"gmail-p2">To exist in a theory is to be disting=
+uishable from at least one other state.</p><p class=3D"gmail-p2">Without th=
+is, there is no difference between symbols, axioms, theorems or nonsense; a=
+ll formal systems, including ZFC and PA, collapse into a single undifferent=
+iated state.</p></li><li><p class=3D"gmail-p1"><span class=3D"gmail-s1"><b>=
+P1 =E2=80=93 MDL (Rissanen):</b></span>=C2=A0The core must be short; pedago=
+gy does not count.</p></li><li><p class=3D"gmail-p1"><span class=3D"gmail-s=
+1"><b>P2 =E2=80=93 Kolmogorov complexity:</b></span>=C2=A0Minimize the code=
+/program; external flags that increase K are epicycles.</p></li><li><p clas=
+s=3D"gmail-p1"><span class=3D"gmail-s1"><b>P3 =E2=80=93 Occam=E2=80=99s raz=
+or:</b></span>=C2=A0Prefer strictly simpler descriptions at equal explanato=
+ry power. No parameters without reduction of exceptions.</p></li><li><p cla=
+ss=3D"gmail-p1"><span class=3D"gmail-s1"><b>P4 =E2=80=93 Noether:</b></span=
+>=C2=A0Symmetry =E2=86=94 conservation law: the bridge between geometry and=
+ physics.</p></li><li><p class=3D"gmail-p1"><span class=3D"gmail-s1"><b>P5 =
+=E2=80=93 Landauer:</b></span>=C2=A0Erasing a bit has physical cost. Memory=
+ and reversibility cannot be =E2=80=9Cignored with no penalty=E2=80=9D.</p>=
+</li><li><p class=3D"gmail-p1"><span class=3D"gmail-s1"><b>P6 =E2=80=93 Com=
+mutative diagrams:</b></span>=C2=A0Translations between Math / Geometry / P=
+hysics / CS must commute (TR=3D1); otherwise the theory is inconsistent acr=
+oss languages.</p></li></ul><div style=3D"color:rgb(0,0,0)"><br class=3D"gm=
+ail-webkit-block-placeholder"></div><p class=3D"gmail-p2" style=3D"color:rg=
+b(0,0,0)"><br></p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">These ar=
+e=C2=A0<span class=3D"gmail-s1"><b>not my private axioms</b></span>; they a=
+re=C2=A0<span class=3D"gmail-s1"><b>the distilled standards of your own tra=
+dition</b></span>. Rejecting any of P1=E2=80=93P6 means explicitly acceptin=
+g:</p><div style=3D"color:rgb(0,0,0)"><span class=3D"gmail-s2"></span><br c=
+lass=3D"gmail-webkit-block-placeholder"></div><ul style=3D"color:rgb(0,0,0)=
+"><li><p class=3D"gmail-p1">non-minimal descriptions,</p></li><li><p class=
+=3D"gmail-p1">epicycles,</p></li><li><p class=3D"gmail-p1">broken translati=
+ons between fields.</p></li></ul><div style=3D"color:rgb(0,0,0)"><br class=
+=3D"gmail-webkit-block-placeholder"></div><p class=3D"gmail-p2" style=3D"co=
+lor:rgb(0,0,0)"><br></p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">In=
+ other words: rejecting P1=E2=80=93P6 is rejecting the historical method by=
+ which mathematics has selected its best theories.</p><div style=3D"color:r=
+gb(0,0,0)"><span class=3D"gmail-s2"></span><br class=3D"gmail-webkit-block-=
+placeholder"></div><hr style=3D"color:rgb(255,255,255)"><div style=3D"color=
+:rgb(0,0,0)"><br class=3D"gmail-webkit-block-placeholder"></div><div style=
+=3D"color:rgb(0,0,0)"><span class=3D"gmail-s2"></span><br class=3D"gmail-we=
+bkit-block-placeholder"></div><h2 style=3D"color:rgb(0,0,0)"><b>2. What is =
+provided to CMI?</b></h2><div style=3D"color:rgb(0,0,0)"><br class=3D"gmail=
+-webkit-block-placeholder"></div><p class=3D"gmail-p2" style=3D"color:rgb(0=
+,0,0)"><br></p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">I have alre=
+ady attached / published the following:</p><div style=3D"color:rgb(0,0,0)">=
+<span class=3D"gmail-s2"></span><br class=3D"gmail-webkit-block-placeholder=
+"></div><ol start=3D"1" style=3D"color:rgb(0,0,0)"><li><p class=3D"gmail-p1=
+"><b>Mathematical core:</b><b></b></p><p class=3D"gmail-p2"><i>=E2=80=9C=CE=
+=A6=E2=80=93=CE=A8 CoP: D0 =E2=86=92 S=C2=B3 and P vs NP (Universal Proof v=
+1.0)=E2=80=9D</i><i></i></p><div><span class=3D"gmail-s1"></span><br class=
+=3D"gmail-webkit-block-placeholder"></div><ul><li><p class=3D"gmail-p1">Sta=
+rts from D0.</p></li><li><p class=3D"gmail-p1">Derives the fixed-point equa=
+tion=C2=A0<span class=3D"gmail-s1">r =3D 1 + 1/r</span>=C2=A0and the =CF=86=
+=E2=80=93=CF=88 pair as the unique scale-invariant solution under K-minimal=
+ity.</p></li><li><p class=3D"gmail-p1">Uses three independent bits=C2=A0<sp=
+an class=3D"gmail-s1">(k,c,q)</span>=C2=A0and =CF=86=E2=80=93=CF=88 to show=
+ that the minimal 3D carrier with isotropic curvature and =CF=80=E2=82=81=
+=3D0 is S=C2=B3 (universal Poincar=C3=A9,=C2=A0<span class=3D"gmail-s2"><b>=
+T_all</b></span>).</p></li><li><p class=3D"gmail-p1">Derives a D-dependent =
+statement about P vs NP:</p><div><span class=3D"gmail-s1"></span><br class=
+=3D"gmail-webkit-block-placeholder"></div><ul><li><p class=3D"gmail-p1">D=
+=3D4/5 (memory channel closed) =E2=87=92=C2=A0<span class=3D"gmail-s1">P \n=
+e NP</span></p></li><li><p class=3D"gmail-p1">D =E2=89=A5 6 (memory channel=
+ open inside =CF=86=E2=80=93=CF=88 core) =E2=87=92=C2=A0<span class=3D"gmai=
+l-s1">P =3D NP</span></p></li></ul><div><br class=3D"gmail-webkit-block-pla=
+ceholder"></div></li><li><p class=3D"gmail-p1">The =CF=86=E2=80=93=CF=88 Co=
+P framework passes P1=E2=80=93P6:</p><p class=3D"gmail-p1">minimal K, no =
+=CF=88 outside the core, no epicycles, TR=3D1.</p></li></ul><div><br class=
+=3D"gmail-webkit-block-placeholder"></div></li><li><p class=3D"gmail-p1"><b=
+>Topological unfolding document:</b><b></b></p><p class=3D"gmail-p2"><i>=E2=
+=80=9C3.2 Topology Unfoldings =E2=80=94 =D0=91=D0=95=D0=A2=D0=9E=D0=9D v2=
+=E2=80=9D</i><i></i></p><div><span class=3D"gmail-s1"></span><br class=3D"g=
+mail-webkit-block-placeholder"></div><ul><li><p class=3D"gmail-p1">Shows th=
+at the sequence of D-levels (4,5,6,8,10,11,12,13) and the four operators (F=
+/H/P/C) are=C2=A0<span class=3D"gmail-s1"><b>not arbitrary</b></span>, but =
+the unique minimal unfolding of distinguishability on S=C2=B9 into a 3D car=
+rier under P1=E2=80=93P6.</p></li><li><p class=3D"gmail-p1">Any attempt to =
+remove one of these steps loses distinguishability (violates D0) or increas=
+es K (violates P1=E2=80=93P3).</p></li></ul><div><br class=3D"gmail-webkit-=
+block-placeholder"></div></li><li><p class=3D"gmail-p1"><b>Historical / qua=
+ntitative analysis:</b><b></b></p><p class=3D"gmail-p2"><i>=E2=80=9C45 Mill=
+ion Deaths and $40 Trillion in Losses: Quantitative Analysis of Scientific =
+Recognition Delays (1847=E2=80=932020)=E2=80=9D</i><i></i></p><div><span cl=
+ass=3D"gmail-s1"></span><br class=3D"gmail-webkit-block-placeholder"></div>=
+<ul><li><p class=3D"gmail-p1">Documents ~45=E2=80=9350 million preventable =
+deaths and $25=E2=80=9340 trillion in losses from institutional delays in a=
+ccepting paradigm-level results over 170+ years.</p></li><li><p class=3D"gm=
+ail-p1">Shows that the =E2=80=9Cwait 20=E2=80=9340 more years=E2=80=9D patt=
+ern is not neutral; it has an=C2=A0<span class=3D"gmail-s1"><b>objective hu=
+manitarian and economic cost</b></span>=C2=A0per year.</p></li></ul><div><b=
+r class=3D"gmail-webkit-block-placeholder"></div></li><li><p class=3D"gmail=
+-p1"><b>Public demand / legal framing:</b><b></b></p><p class=3D"gmail-p2">=
+<i>=E2=80=9CPublic Demand to the Clay Mathematics Institute: Humanity vs Ep=
+icyclism =E2=80=94 Point Zero=E2=80=9D</i><i></i></p><div><span class=3D"gm=
+ail-s1"></span><br class=3D"gmail-webkit-block-placeholder"></div><ul><li><=
+p class=3D"gmail-p1">Argues that the existing Millennium Prize contract, by=
+ requiring solutions strictly =E2=80=9Cwithin the accepted paradigm=E2=80=
+=9D, is logically incompatible with genuine paradigm-level breakthroughs.</=
+p></li><li><p class=3D"gmail-p1">Proposes=C2=A0<span class=3D"gmail-s1"><b>=
+$6M</b></span>=C2=A0as the minimal recognition of 25 years of reputational =
+benefit while 6 problems remain =E2=80=9Cunsolved=E2=80=9D under CMI=E2=80=
+=99s own criteria, and minimal =CF=86-CoP solutions are not even evaluated.=
+</p></li><li><p class=3D"gmail-p1">States that all funds are intended to be=
+ redirected to women and children (the primary victims of systemic delays),=
+ not to personal enrichment.</p></li></ul><div><br class=3D"gmail-webkit-bl=
+ock-placeholder"></div></li><li><p class=3D"gmail-p1"><b>Reproducible code =
+(computational certificate):</b><b></b></p><div><span class=3D"gmail-s1"></=
+span><br class=3D"gmail-webkit-block-placeholder"></div><ul><li><p class=3D=
+"gmail-p1">Jupyter notebook:=C2=A0<span class=3D"gmail-s1">math_navigator.i=
+pynb</span>=C2=A0(attached).</p></li><li><p class=3D"gmail-p1">Public Colab=
+ link:</p><p class=3D"gmail-p2"><a href=3D"https://colab.research.google.co=
+m/drive/1NmRFLFcn6LXPQn4roHGK-fllRD5zVTsh?usp=3Dsharing">https://colab.rese=
+arch.google.com/drive/1NmRFLFcn6LXPQn4roHGK-fllRD5zVTsh?usp=3Dsharing</a></=
+p></li><li><p class=3D"gmail-p1"><span class=3D"gmail-s1">The notebook is a=
+n=C2=A0</span><b>export from Colab with all outputs saved</b><span class=3D=
+"gmail-s1">. It is=C2=A0<i>self-contained</i>:</span></p><div><span class=
+=3D"gmail-s2"></span><br class=3D"gmail-webkit-block-placeholder"></div><ul=
+><li><p class=3D"gmail-p1">fixed random seeds,</p></li><li><p class=3D"gmai=
+l-p1">no external data downloads,</p></li><li><p class=3D"gmail-p1">complet=
+e generation of all results and reports in a single run of the main cell.</=
+p></li></ul><div><br class=3D"gmail-webkit-block-placeholder"></div></li><l=
+i><p class=3D"gmail-p1">The notebook implements the =CF=86=E2=80=93CoP logi=
+c as a=C2=A0<span class=3D"gmail-s1"><b>literal, machine-checkable certific=
+ate</b></span>.</p><p class=3D"gmail-p1">Anyone can open and inspect it wit=
+hout re-running; or re-run it to verify that the outputs are reproducible.<=
+/p></li></ul><div><br class=3D"gmail-webkit-block-placeholder"></div></li><=
+li><p class=3D"gmail-p1"><b>Public repository / permanence:</b><b></b></p><=
+div><span class=3D"gmail-s1"></span><br class=3D"gmail-webkit-block-placeho=
+lder"></div><ul><li><p class=3D"gmail-p1">GitHub repository (public, time-s=
+tamped):</p><p class=3D"gmail-p2"><a href=3D"https://github.com/gvakhrushev=
+/phi-psi-love-womens-theory">https://github.com/gvakhrushev/phi-psi-love-wo=
+mens-theory</a></p><p class=3D"gmail-p1">This repository contains the core =
+theoretical documents, code, and references, and is already publicly visibl=
+e for independent scrutiny.</p></li></ul><div><br class=3D"gmail-webkit-blo=
+ck-placeholder"></div></li><li><p class=3D"gmail-p1"><b>arXiv submission an=
+d endorsement request:</b><b></b></p><p class=3D"gmail-p2">As an=C2=A0<span=
+ class=3D"gmail-s1"><b>independent researcher</b></span>, I cannot submit m=
+y work to arXiv without endorsement from an established member of the commu=
+nity.</p><p class=3D"gmail-p2">The arXiv endorsement link for my account is=
+:</p><p class=3D"gmail-p3"><a href=3D"https://arxiv.org/auth/endorse?x=3D79=
+RZ3E">https://arxiv.org/auth/endorse?x=3D79RZ3E</a></p><p class=3D"gmail-p2=
+">Without such endorsement, the broader community=C2=A0<span class=3D"gmail=
+-s1"><b>cannot even access</b></span>=C2=A0my work on arXiv in the standard=
+ way to review it formally.</p><p class=3D"gmail-p2">I therefore explicitly=
+ ask CMI members (or any qualified endorser) to consider endorsing my arXiv=
+ submissions after examining the attached materials. This is not a favor to=
+ me personally; it is a necessary step to allow the community to=C2=A0<span=
+ class=3D"gmail-s1"><b>see and review</b></span>=C2=A0the work using the no=
+rmal academic infrastructure.</p></li></ol><div style=3D"color:rgb(0,0,0)">=
+<br class=3D"gmail-webkit-block-placeholder"></div><div style=3D"color:rgb(=
+0,0,0)"><span class=3D"gmail-s2"></span><br class=3D"gmail-webkit-block-pla=
+ceholder"></div><hr style=3D"color:rgb(255,255,255)"><div style=3D"color:rg=
+b(0,0,0)"><br class=3D"gmail-webkit-block-placeholder"></div><div style=3D"=
+color:rgb(0,0,0)"><span class=3D"gmail-s2"></span><br class=3D"gmail-webkit=
+-block-placeholder"></div><h2 style=3D"color:rgb(0,0,0)"><b>3. 72-hour dead=
+line: why it is justified</b></h2><div style=3D"color:rgb(0,0,0)"><br class=
+=3D"gmail-webkit-block-placeholder"></div><p class=3D"gmail-p2" style=3D"co=
+lor:rgb(0,0,0)"><br></p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">Th=
+e=C2=A0<span class=3D"gmail-s1"><b>72 hours</b></span>=C2=A0requested here =
+are=C2=A0<span class=3D"gmail-s1"><b>not</b></span>=C2=A0meant for a full f=
+ormal verdict on every equation. They are for three very basic actions:</p>=
+<div style=3D"color:rgb(0,0,0)"><span class=3D"gmail-s2"></span><br class=
+=3D"gmail-webkit-block-placeholder"></div><ol start=3D"1" style=3D"color:rg=
+b(0,0,0)"><li><p class=3D"gmail-p1">Download and open the provided document=
+s and notebook.</p></li><li><p class=3D"gmail-p1">Run or at least inspect t=
+he main cell of the notebook (Colab or local Jupyter).</p></li><li><p class=
+=3D"gmail-p1">Provide a=C2=A0<span class=3D"gmail-s1"><b>binary response</b=
+></span>=C2=A0on the record:</p></li></ol><div style=3D"color:rgb(0,0,0)"><=
+br class=3D"gmail-webkit-block-placeholder"></div><p class=3D"gmail-p2" sty=
+le=3D"color:rgb(0,0,0)"><br></p><div style=3D"color:rgb(0,0,0)"><span class=
+=3D"gmail-s2"></span><br class=3D"gmail-webkit-block-placeholder"></div><ul=
+ style=3D"color:rgb(0,0,0)"><li><blockquote style=3D"margin:0px 0px 0px 15p=
+x;font-size:16px;line-height:normal;font-size-adjust:none;font-kerning:auto=
+;font-variant-alternates:normal;font-variant-numeric:normal;font-variant-ea=
+st-asian:normal;font-feature-settings:normal;color:rgb(14,14,14)">=E2=80=9C=
+Yes, we recognize D0 and P1=E2=80=93P6 as a valid protocol and we will eval=
+uate =CF=86=E2=80=93CoP accordingly.=E2=80=9D</blockquote></li><li><blockqu=
+ote style=3D"margin:0px 0px 0px 15px;font-size:16px;line-height:normal;font=
+-size-adjust:none;font-kerning:auto;font-variant-alternates:normal;font-var=
+iant-numeric:normal;font-variant-east-asian:normal;font-feature-settings:no=
+rmal;color:rgb(14,14,14)">or</blockquote></li><li><blockquote style=3D"marg=
+in:0px 0px 0px 15px;font-size:16px;line-height:normal;font-size-adjust:none=
+;font-kerning:auto;font-variant-alternates:normal;font-variant-numeric:norm=
+al;font-variant-east-asian:normal;font-feature-settings:normal;color:rgb(14=
+,14,14)">=E2=80=9CNo, we reject this protocol, and here is precisely which =
+of D0 or P1=E2=80=93P6 we deny, and why.=E2=80=9D</blockquote></li></ul><di=
+v style=3D"color:rgb(0,0,0)"><br class=3D"gmail-webkit-block-placeholder"><=
+/div><p class=3D"gmail-p2" style=3D"color:rgb(0,0,0)"><br></p><p class=3D"g=
+mail-p5" style=3D"color:rgb(0,0,0)">Given that:</p><div style=3D"color:rgb(=
+0,0,0)"><span class=3D"gmail-s2"></span><br class=3D"gmail-webkit-block-pla=
+ceholder"></div><ul style=3D"color:rgb(0,0,0)"><li><p class=3D"gmail-p1">Th=
+e Poincar=C3=A9 conjecture was effectively recognized as solved over=C2=A0<=
+span class=3D"gmail-s1"><b>20 years ago</b></span>.</p></li><li><p class=3D=
+"gmail-p1">P vs NP remains officially open=C2=A0<span class=3D"gmail-s1"><b=
+>within a framework that cannot express the D-dependent result</b></span>=
+=C2=A0produced by =CF=86=E2=80=93CoP (because =CF=88 and the D-channel of m=
+emory are externalized).</p></li><li><p class=3D"gmail-p1">The attached his=
+torical analysis gives a=C2=A0<span class=3D"gmail-s1"><b>per-day cost</b><=
+/span>=C2=A0(in deaths and economic loss) of delaying paradigm-level recogn=
+ition,</p></li></ul><div style=3D"color:rgb(0,0,0)"><br class=3D"gmail-webk=
+it-block-placeholder"></div><p class=3D"gmail-p2" style=3D"color:rgb(0,0,0)=
+"><br></p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">asking for=C2=A0=
+<span class=3D"gmail-s1"><b>3 days</b></span>=C2=A0to:</p><div style=3D"col=
+or:rgb(0,0,0)"><span class=3D"gmail-s2"></span><br class=3D"gmail-webkit-bl=
+ock-placeholder"></div><ul style=3D"color:rgb(0,0,0)"><li><p class=3D"gmail=
+-p1">read,</p></li><li><p class=3D"gmail-p1">run,</p></li><li><p class=3D"g=
+mail-p1">and state a position</p></li></ul><div style=3D"color:rgb(0,0,0)">=
+<br class=3D"gmail-webkit-block-placeholder"></div><p class=3D"gmail-p2" st=
+yle=3D"color:rgb(0,0,0)"><br></p><p class=3D"gmail-p5" style=3D"color:rgb(0=
+,0,0)">is not only reasonable, it is=C2=A0<span class=3D"gmail-s1"><b>minim=
+al</b></span>.</p><div style=3D"color:rgb(0,0,0)"><span class=3D"gmail-s2">=
+</span><br class=3D"gmail-webkit-block-placeholder"></div><hr style=3D"colo=
+r:rgb(255,255,255)"><div style=3D"color:rgb(0,0,0)"><br class=3D"gmail-webk=
+it-block-placeholder"></div><div style=3D"color:rgb(0,0,0)"><span class=3D"=
+gmail-s2"></span><br class=3D"gmail-webkit-block-placeholder"></div><h2 sty=
+le=3D"color:rgb(0,0,0)"><b>4. FAQ: Anticipated objections and strict answer=
+s</b></h2><div style=3D"color:rgb(0,0,0)"><br class=3D"gmail-webkit-block-p=
+laceholder"></div><p class=3D"gmail-p2" style=3D"color:rgb(0,0,0)"><br></p>=
+<div style=3D"color:rgb(0,0,0)"><span class=3D"gmail-s2"></span><br class=
+=3D"gmail-webkit-block-placeholder"></div><h3 style=3D"color:rgb(0,0,0)"><b=
+>Q1: =E2=80=9CWe do not accept your framework; we work in ZFC / PA / our us=
+ual axiomatics.=E2=80=9D</b></h3><div style=3D"color:rgb(0,0,0)"><br class=
+=3D"gmail-webkit-block-placeholder"></div><p class=3D"gmail-p2" style=3D"co=
+lor:rgb(0,0,0)"><br></p><p class=3D"gmail-p1" style=3D"color:rgb(0,0,0)"><b=
+>Answer:</b><b></b></p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">D0 =
+and P1=E2=80=93P6 are=C2=A0<span class=3D"gmail-s1"><b>prior</b></span>=C2=
+=A0to any choice of ZFC, PA or other formal system:</p><div style=3D"color:=
+rgb(0,0,0)"><span class=3D"gmail-s2"></span><br class=3D"gmail-webkit-block=
+-placeholder"></div><ul style=3D"color:rgb(0,0,0)"><li><p class=3D"gmail-p1=
+">Without D0 (distinguishability), no formal system can even distinguish sy=
+mbols, axioms, theorems or proofs.</p></li><li><p class=3D"gmail-p1">P1=E2=
+=80=93P6 are not =E2=80=9Cmy axioms=E2=80=9D; they are the historical stand=
+ards by which your community has judged elegance, power and universality of=
+ theories.</p></li></ul><div style=3D"color:rgb(0,0,0)"><br class=3D"gmail-=
+webkit-block-placeholder"></div><p class=3D"gmail-p2" style=3D"color:rgb(0,=
+0,0)"><br></p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">To reject D0=
+ is to destroy ZFC/PA themselves.</p><p class=3D"gmail-p5" style=3D"color:r=
+gb(0,0,0)">To reject P1=E2=80=93P6 is to say openly:</p><p class=3D"gmail-p=
+2" style=3D"color:rgb(0,0,0)"><br></p><blockquote style=3D"color:rgb(14,14,=
+14);font-size:16px;margin:0px 0px 0px 15px;line-height:normal;font-size-adj=
+ust:none;font-kerning:auto;font-variant-alternates:normal;font-variant-nume=
+ric:normal;font-variant-east-asian:normal;font-feature-settings:normal">=E2=
+=80=9CWe are willing to accept non-minimal, epicyclic, non-commutative (acr=
+oss fields) descriptions as our standard.=E2=80=9D</blockquote><p class=3D"=
+gmail-p2" style=3D"color:rgb(0,0,0)"><br></p><p class=3D"gmail-p5" style=3D=
+"color:rgb(0,0,0)">That is not a mathematical refutation of =CF=86=E2=80=93=
+CoP; it is a=C2=A0<span class=3D"gmail-s1"><b>declaration of preference for=
+ epicycles</b></span>.</p><p class=3D"gmail-p2" style=3D"color:rgb(0,0,0)">=
+<br></p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">If CMI chooses thi=
+s position, it must say so=C2=A0<span class=3D"gmail-s1"><b>explicitly</b><=
+/span>:</p><div style=3D"color:rgb(0,0,0)"><span class=3D"gmail-s2"></span>=
+<br class=3D"gmail-webkit-block-placeholder"></div><ul style=3D"color:rgb(0=
+,0,0)"><li><p class=3D"gmail-p1">=E2=80=9CWe do not accept P1=E2=80=93P6 as=
+ binding,=E2=80=9D</p></li><li><p class=3D"gmail-p1">and explain to the pub=
+lic why the Institute now considers epicyclic, non-minimal frameworks accep=
+table.</p></li></ul><div style=3D"color:rgb(0,0,0)"><br class=3D"gmail-webk=
+it-block-placeholder"></div><div style=3D"color:rgb(0,0,0)"><span class=3D"=
+gmail-s2"></span><br class=3D"gmail-webkit-block-placeholder"></div><hr sty=
+le=3D"color:rgb(255,255,255)"><div style=3D"color:rgb(0,0,0)"><br class=3D"=
+gmail-webkit-block-placeholder"></div><div style=3D"color:rgb(0,0,0)"><span=
+ class=3D"gmail-s2"></span><br class=3D"gmail-webkit-block-placeholder"></d=
+iv><h3 style=3D"color:rgb(0,0,0)"><b>Q2: =E2=80=9CYou did not solve the=C2=
+=A0</b></h3><h3 style=3D"color:rgb(0,0,0)"><b>classical</b></h3><h3 style=
+=3D"color:rgb(0,0,0)"><b>=C2=A0Poincar=C3=A9 conjecture, only some generali=
+zed variant.=E2=80=9D</b></h3><div style=3D"color:rgb(0,0,0)"><br class=3D"=
+gmail-webkit-block-placeholder"></div><p class=3D"gmail-p2" style=3D"color:=
+rgb(0,0,0)"><br></p><p class=3D"gmail-p1" style=3D"color:rgb(0,0,0)"><b>Ans=
+wer:</b><b></b></p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">The =CF=
+=86=E2=80=93=CE=A8 CoP framework distinguishes between:</p><div style=3D"co=
+lor:rgb(0,0,0)"><span class=3D"gmail-s2"></span><br class=3D"gmail-webkit-b=
+lock-placeholder"></div><ul style=3D"color:rgb(0,0,0)"><li><p class=3D"gmai=
+l-p1"><span class=3D"gmail-s1"><b>T=E2=82=80:</b></span>=C2=A0the classical=
+ Poincar=C3=A9 conjecture as formulated and solved via Ricci flow;</p></li>=
+<li><p class=3D"gmail-p1"><span class=3D"gmail-s1"><b>T_all:</b></span>=C2=
+=A0the universal Poincar=C3=A9 statement in the =CF=86=E2=80=93CoP language=
+ (minimal K on {=CF=86,=CF=88}, isotropy in modulus, =CF=80=E2=82=81=3D0 =
+=E2=87=92 S=C2=B3).</p></li></ul><div style=3D"color:rgb(0,0,0)"><br class=
+=3D"gmail-webkit-block-placeholder"></div><p class=3D"gmail-p2" style=3D"co=
+lor:rgb(0,0,0)"><br></p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">Th=
+e claim=C2=A0<span class=3D"gmail-s1"><b>is not</b></span>=C2=A0that Perelm=
+an=E2=80=99s work is =E2=80=9Cwrong=E2=80=9D. The claim is:</p><div style=
+=3D"color:rgb(0,0,0)"><span class=3D"gmail-s2"></span><br class=3D"gmail-we=
+bkit-block-placeholder"></div><ul style=3D"color:rgb(0,0,0)"><li><p class=
+=3D"gmail-p1">Ricci flow + surgery is a=C2=A0<span class=3D"gmail-s1"><b>no=
+n-minimal, =CF=88-incomplete</b></span>=C2=A0route to T=E2=82=80 (passes co=
+rrectness, fails =CF=88-test and TR=3D1).</p></li><li><p class=3D"gmail-p1"=
+>=CF=86=E2=80=93CoP provides a=C2=A0<span class=3D"gmail-s1"><b>shorter, un=
+iversal core</b></span>=C2=A0(T_all) that includes T=E2=82=80 as a special =
+case and satisfies D0 + P1=E2=80=93P6.</p></li></ul><div style=3D"color:rgb=
+(0,0,0)"><br class=3D"gmail-webkit-block-placeholder"></div><p class=3D"gma=
+il-p2" style=3D"color:rgb(0,0,0)"><br></p><p class=3D"gmail-p5" style=3D"co=
+lor:rgb(0,0,0)">If CMI believes T_all is not equivalent to T=E2=82=80, the =
+Institute must:</p><div style=3D"color:rgb(0,0,0)"><span class=3D"gmail-s2"=
+></span><br class=3D"gmail-webkit-block-placeholder"></div><ol start=3D"1" =
+style=3D"color:rgb(0,0,0)"><li><p class=3D"gmail-p1">Precisely identify=C2=
+=A0<span class=3D"gmail-s1"><b>where the equivalence fails</b></span>=C2=A0=
+(which step of the D0=E2=86=92=CF=86=E2=80=93=CF=88=E2=86=92K/TR chain is i=
+nvalid), and</p></li><li><p class=3D"gmail-p1">Provide either</p><div><span=
+ class=3D"gmail-s1"></span><br class=3D"gmail-webkit-block-placeholder"></d=
+iv><ul><li><p class=3D"gmail-p1">a=C2=A0<span class=3D"gmail-s1"><b>counter=
+example</b></span>=C2=A0to T_all, or</p></li><li><p class=3D"gmail-p1">a=C2=
+=A0<span class=3D"gmail-s1"><b>shorter K-core</b></span>=C2=A0that solves b=
+oth Poincar=C3=A9 and the D-dependent P vs NP within D0 and P1=E2=80=93P6.<=
+/p></li></ul><div><br class=3D"gmail-webkit-block-placeholder"></div></li><=
+/ol><div style=3D"color:rgb(0,0,0)"><br class=3D"gmail-webkit-block-placeho=
+lder"></div><p class=3D"gmail-p2" style=3D"color:rgb(0,0,0)"><br></p><p cla=
+ss=3D"gmail-p5" style=3D"color:rgb(0,0,0)">Simply saying =E2=80=9Cthis is a=
+nother problem=E2=80=9D without such analysis is not a mathematical objecti=
+on; it is an evasion.</p><div style=3D"color:rgb(0,0,0)"><span class=3D"gma=
+il-s2"></span><br class=3D"gmail-webkit-block-placeholder"></div><hr style=
+=3D"color:rgb(255,255,255)"><div style=3D"color:rgb(0,0,0)"><br class=3D"gm=
+ail-webkit-block-placeholder"></div><div style=3D"color:rgb(0,0,0)"><span c=
+lass=3D"gmail-s2"></span><br class=3D"gmail-webkit-block-placeholder"></div=
+><h3 style=3D"color:rgb(0,0,0)"><b>Q3: =E2=80=9CYou are redefining P vs NP =
+in another model (with D); that is not the standard problem.=E2=80=9D</b></=
+h3><div style=3D"color:rgb(0,0,0)"><br class=3D"gmail-webkit-block-placehol=
+der"></div><p class=3D"gmail-p2" style=3D"color:rgb(0,0,0)"><br></p><p clas=
+s=3D"gmail-p1" style=3D"color:rgb(0,0,0)"><b>Answer:</b><b></b></p><p class=
+=3D"gmail-p5" style=3D"color:rgb(0,0,0)">The =CF=86=E2=80=93CoP framework i=
+ntroduces D as=C2=A0<span class=3D"gmail-s1"><b>information-geometric dimen=
+sion of the scene</b></span>=C2=A0and proves:</p><div style=3D"color:rgb(0,=
+0,0)"><span class=3D"gmail-s2"></span><br class=3D"gmail-webkit-block-place=
+holder"></div><ul style=3D"color:rgb(0,0,0)"><li><p class=3D"gmail-p1">D=3D=
+4/5 (closed memory channel) =E2=87=92=C2=A0<span class=3D"gmail-s1">P \ne N=
+P</span>,</p></li><li><p class=3D"gmail-p1">D=E2=89=A56 (open memory channe=
+l inside =CF=86=E2=80=93=CF=88 core) =E2=87=92=C2=A0<span class=3D"gmail-s1=
+">P =3D NP</span>.</p></li></ul><div style=3D"color:rgb(0,0,0)"><br class=
+=3D"gmail-webkit-block-placeholder"></div><p class=3D"gmail-p2" style=3D"co=
+lor:rgb(0,0,0)"><br></p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">Th=
+is is not an arbitrary redefinition; it is a structural statement inside th=
+e same K/TR/=CF=88 protocol.</p><p class=3D"gmail-p2" style=3D"color:rgb(0,=
+0,0)"><br></p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">If CMI or co=
+mplexity theorists claim that this is =E2=80=9Cnot the same P vs NP problem=
+=E2=80=9D, they must:</p><div style=3D"color:rgb(0,0,0)"><span class=3D"gma=
+il-s2"></span><br class=3D"gmail-webkit-block-placeholder"></div><ol start=
+=3D"1" style=3D"color:rgb(0,0,0)"><li><p class=3D"gmail-p1">Show a=C2=A0<sp=
+an class=3D"gmail-s1"><b>mapping</b></span>=C2=A0from standard TM/RAM/circu=
+it models to a D-less description=C2=A0<span class=3D"gmail-s1"><b>without =
+loss of D0 or P1=E2=80=93P6</b></span>,</p></li><li><p class=3D"gmail-p1">O=
+r, alternatively, accept that the standard formalization is a=C2=A0<span cl=
+ass=3D"gmail-s1"><b>restricted subscene</b></span>=C2=A0(with =CF=88 and me=
+mory forced out), and therefore cannot legitimately block a more complete D=
+-dependent framework.</p></li></ol><div style=3D"color:rgb(0,0,0)"><br clas=
+s=3D"gmail-webkit-block-placeholder"></div><p class=3D"gmail-p2" style=3D"c=
+olor:rgb(0,0,0)"><br></p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">A=
+gain: the objection must be=C2=A0<span class=3D"gmail-s1"><b>formal</b></sp=
+an>=C2=A0(=E2=80=9Chere is where your mapping fails=E2=80=9D), not rhetoric=
+al (=E2=80=9Cwe don=E2=80=99t like your dimension D=E2=80=9D).</p><div styl=
+e=3D"color:rgb(0,0,0)"><span class=3D"gmail-s2"></span><br class=3D"gmail-w=
+ebkit-block-placeholder"></div><hr style=3D"color:rgb(255,255,255)"><div st=
+yle=3D"color:rgb(0,0,0)"><br class=3D"gmail-webkit-block-placeholder"></div=
+><div style=3D"color:rgb(0,0,0)"><span class=3D"gmail-s2"></span><br class=
+=3D"gmail-webkit-block-placeholder"></div><h3 style=3D"color:rgb(0,0,0)"><b=
+>Q4: =E2=80=9CCode is not a formal proof.=E2=80=9D</b></h3><div style=3D"co=
+lor:rgb(0,0,0)"><br class=3D"gmail-webkit-block-placeholder"></div><p class=
+=3D"gmail-p2" style=3D"color:rgb(0,0,0)"><br></p><p class=3D"gmail-p1" styl=
+e=3D"color:rgb(0,0,0)"><b>Answer:</b><b></b></p><p class=3D"gmail-p5" style=
+=3D"color:rgb(0,0,0)">The Jupyter/Colab notebook=C2=A0<span class=3D"gmail-=
+s3">math_navigator.ipynb</span>=C2=A0is not offered=C2=A0<i>instead of</i>=
+=C2=A0a proof, but as a=C2=A0<span class=3D"gmail-s1"><b>computational cert=
+ificate</b></span>that:</p><div style=3D"color:rgb(0,0,0)"><span class=3D"g=
+mail-s2"></span><br class=3D"gmail-webkit-block-placeholder"></div><ul styl=
+e=3D"color:rgb(0,0,0)"><li><p class=3D"gmail-p1">directly instantiates the =
+=CF=86=E2=80=93CoP logic,</p></li><li><p class=3D"gmail-p1">uses fixed seed=
+s and no external data,</p></li><li><p class=3D"gmail-p1">and generates all=
+ relevant outputs reproducibly.</p></li></ul><div style=3D"color:rgb(0,0,0)=
+"><br class=3D"gmail-webkit-block-placeholder"></div><p class=3D"gmail-p2" =
+style=3D"color:rgb(0,0,0)"><br></p><p class=3D"gmail-p5" style=3D"color:rgb=
+(0,0,0)">The mathematical core (=CE=A6=E2=80=93=CE=A8 CoP document) already=
+ provides the theoretical chain. The notebook:</p><div style=3D"color:rgb(0=
+,0,0)"><span class=3D"gmail-s2"></span><br class=3D"gmail-webkit-block-plac=
+eholder"></div><ul style=3D"color:rgb(0,0,0)"><li><p class=3D"gmail-p1"><sp=
+an class=3D"gmail-s1">shows there is=C2=A0</span><b>no hidden hand-waving</=
+b><span class=3D"gmail-s1">;</span></p></li><li><p class=3D"gmail-p1"><span=
+ class=3D"gmail-s1">allows any expert to=C2=A0</span><b>inspect every step =
+concretely</b><span class=3D"gmail-s1">.</span></p></li></ul><div style=3D"=
+color:rgb(0,0,0)"><br class=3D"gmail-webkit-block-placeholder"></div><p cla=
+ss=3D"gmail-p2" style=3D"color:rgb(0,0,0)"><br></p><p class=3D"gmail-p5" st=
+yle=3D"color:rgb(0,0,0)">If CMI believes there is a specific error in the m=
+athematics, it must point to the=C2=A0<span class=3D"gmail-s1"><b>exact loc=
+ation</b></span>=C2=A0either:</p><div style=3D"color:rgb(0,0,0)"><span clas=
+s=3D"gmail-s2"></span><br class=3D"gmail-webkit-block-placeholder"></div><u=
+l style=3D"color:rgb(0,0,0)"><li><p class=3D"gmail-p1">in the analytic chai=
+n (D0 =E2=86=92 =CF=86=E2=80=93=CF=88 =E2=86=92 K/TR/=CF=88), or</p></li><l=
+i><p class=3D"gmail-p1">in the algorithmic implementation in the notebook.<=
+/p></li></ul><div style=3D"color:rgb(0,0,0)"><br class=3D"gmail-webkit-bloc=
+k-placeholder"></div><p class=3D"gmail-p2" style=3D"color:rgb(0,0,0)"><br><=
+/p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">A generic =E2=80=9Ccode=
+ is not proof=E2=80=9D is not an objection; it is an excuse not to look.</p=
+><div style=3D"color:rgb(0,0,0)"><span class=3D"gmail-s2"></span><br class=
+=3D"gmail-webkit-block-placeholder"></div><hr style=3D"color:rgb(255,255,25=
+5)"><div style=3D"color:rgb(0,0,0)"><br class=3D"gmail-webkit-block-placeho=
+lder"></div><div style=3D"color:rgb(0,0,0)"><span class=3D"gmail-s2"></span=
+><br class=3D"gmail-webkit-block-placeholder"></div><h3 style=3D"color:rgb(=
+0,0,0)"><b>Q5: =E2=80=9C72 hours is too short for us.=E2=80=9D</b></h3><div=
+ style=3D"color:rgb(0,0,0)"><br class=3D"gmail-webkit-block-placeholder"></=
+div><p class=3D"gmail-p2" style=3D"color:rgb(0,0,0)"><br></p><p class=3D"gm=
+ail-p1" style=3D"color:rgb(0,0,0)"><b>Answer:</b><b></b></p><p class=3D"gma=
+il-p2" style=3D"color:rgb(0,0,0)"><br></p><p class=3D"gmail-p5" style=3D"co=
+lor:rgb(0,0,0)">The 72-hour window is=C2=A0<span class=3D"gmail-s1"><b>not<=
+/b></span>=C2=A0for a complete reworking of the theory. It is for:</p><div =
+style=3D"color:rgb(0,0,0)"><span class=3D"gmail-s2"></span><br class=3D"gma=
+il-webkit-block-placeholder"></div><ul style=3D"color:rgb(0,0,0)"><li><p cl=
+ass=3D"gmail-p1">acknowledging receipt,</p></li><li><p class=3D"gmail-p1">r=
+eading the core statements,</p></li><li><p class=3D"gmail-p1">inspecting or=
+ running the notebook,</p></li><li><p class=3D"gmail-p1"><span class=3D"gma=
+il-s1">and stating=C2=A0</span><b>one of two positions</b><span class=3D"gm=
+ail-s1">:</span></p></li></ul><div style=3D"color:rgb(0,0,0)"><br class=3D"=
+gmail-webkit-block-placeholder"></div><p class=3D"gmail-p2" style=3D"color:=
+rgb(0,0,0)"><br></p><div style=3D"color:rgb(0,0,0)"><span class=3D"gmail-s2=
+"></span><br class=3D"gmail-webkit-block-placeholder"></div><ol start=3D"1"=
+ style=3D"color:rgb(0,0,0)"><li><blockquote style=3D"margin:0px 0px 0px 22p=
+x;font-size:16px;line-height:normal;font-size-adjust:none;font-kerning:auto=
+;font-variant-alternates:normal;font-variant-numeric:normal;font-variant-ea=
+st-asian:normal;font-feature-settings:normal;color:rgb(14,14,14)">=E2=80=9C=
+We accept D0 and P1=E2=80=93P6 as a valid protocol and will evaluate =CF=86=
+=E2=80=93CoP accordingly, in a specified time frame T.=E2=80=9D</blockquote=
+></li><li><blockquote style=3D"margin:0px 0px 0px 22px;font-size:16px;line-=
+height:normal;font-size-adjust:none;font-kerning:auto;font-variant-alternat=
+es:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-f=
+eature-settings:normal;color:rgb(14,14,14)">=E2=80=9CWe reject this protoco=
+l, and we explicitly deny principle X (D0 or one of P1=E2=80=93P6), for the=
+ following reason.=E2=80=9D</blockquote></li></ol><div style=3D"color:rgb(0=
+,0,0)"><br class=3D"gmail-webkit-block-placeholder"></div><p class=3D"gmail=
+-p2" style=3D"color:rgb(0,0,0)"><br></p><p class=3D"gmail-p5" style=3D"colo=
+r:rgb(0,0,0)">Given that:</p><div style=3D"color:rgb(0,0,0)"><span class=3D=
+"gmail-s2"></span><br class=3D"gmail-webkit-block-placeholder"></div><ul st=
+yle=3D"color:rgb(0,0,0)"><li><p class=3D"gmail-p1">over 20 years have passe=
+d since the Poincar=C3=A9 recognition,</p></li><li><p class=3D"gmail-p1">an=
+d P vs NP remains officially open in a framework provably too narrow to exp=
+ress the D-dependent result,</p></li></ul><div style=3D"color:rgb(0,0,0)"><=
+br class=3D"gmail-webkit-block-placeholder"></div><p class=3D"gmail-p2" sty=
+le=3D"color:rgb(0,0,0)"><br></p><p class=3D"gmail-p5" style=3D"color:rgb(0,=
+0,0)">3 days to give a=C2=A0<span class=3D"gmail-s1"><b>yes/no + reason</b>=
+</span>=C2=A0is minimal.</p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)=
+">Each extra day of vague delay, in the face of the attached historical ana=
+lysis, becomes a=C2=A0<span class=3D"gmail-s1"><b>conscious choice</b></spa=
+n>, not an accident.</p><div style=3D"color:rgb(0,0,0)"><span class=3D"gmai=
+l-s2"></span><br class=3D"gmail-webkit-block-placeholder"></div><hr style=
+=3D"color:rgb(255,255,255)"><div style=3D"color:rgb(0,0,0)"><br class=3D"gm=
+ail-webkit-block-placeholder"></div><div style=3D"color:rgb(0,0,0)"><span c=
+lass=3D"gmail-s2"></span><br class=3D"gmail-webkit-block-placeholder"></div=
+><h3 style=3D"color:rgb(0,0,0)"><b>Q6: =E2=80=9CWe cannot be held responsib=
+le for deaths and economic losses.=E2=80=9D</b></h3><div style=3D"color:rgb=
+(0,0,0)"><br class=3D"gmail-webkit-block-placeholder"></div><p class=3D"gma=
+il-p2" style=3D"color:rgb(0,0,0)"><br></p><p class=3D"gmail-p1" style=3D"co=
+lor:rgb(0,0,0)"><b>Answer:</b><b></b></p><p class=3D"gmail-p2" style=3D"col=
+or:rgb(0,0,0)"><br></p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">The=
+ historical document does=C2=A0<span class=3D"gmail-s1"><b>not</b></span>=
+=C2=A0claim that CMI alone is responsible for all 45=E2=80=9350 million dea=
+ths and trillions in losses. It shows:</p><div style=3D"color:rgb(0,0,0)"><=
+span class=3D"gmail-s2"></span><br class=3D"gmail-webkit-block-placeholder"=
+></div><ul style=3D"color:rgb(0,0,0)"><li><p class=3D"gmail-p1">there is a=
+=C2=A0<span class=3D"gmail-s1"><b>systematic pattern</b></span>: paradigm-l=
+evel delays cost real lives and money;</p></li><li><p class=3D"gmail-p1"><s=
+pan class=3D"gmail-s1"><b>institutions</b></span>=C2=A0that control recogni=
+tion timelines share responsibility once they are explicitly warned.</p></l=
+i></ul><div style=3D"color:rgb(0,0,0)"><br class=3D"gmail-webkit-block-plac=
+eholder"></div><p class=3D"gmail-p2" style=3D"color:rgb(0,0,0)"><br></p><p =
+class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">Before this letter, CMI could=
+ argue it was =E2=80=9Cnot aware=E2=80=9D of a minimal D0/P1=E2=80=93P6-com=
+pliant framework that unifies Poincar=C3=A9 and P vs NP.</p><p class=3D"gma=
+il-p1" style=3D"color:rgb(0,0,0)"><b>After this letter and the 72-hour wind=
+ow</b><span class=3D"gmail-s4">, that argument is no longer available.</spa=
+n></p><p class=3D"gmail-p2" style=3D"color:rgb(0,0,0)"><br></p><p class=3D"=
+gmail-p5" style=3D"color:rgb(0,0,0)">From that moment, continued non-engage=
+ment becomes:</p><div style=3D"color:rgb(0,0,0)"><span class=3D"gmail-s2"><=
+/span><br class=3D"gmail-webkit-block-placeholder"></div><ul style=3D"color=
+:rgb(0,0,0)"><li><p class=3D"gmail-p1">a conscious choice to prefer the com=
+fort of existing epicyclic frameworks over</p></li><li><p class=3D"gmail-p1=
+">the obligation to evaluate a minimal, reproducible, publicly documented a=
+lternative.</p></li></ul><div style=3D"color:rgb(0,0,0)"><br class=3D"gmail=
+-webkit-block-placeholder"></div><p class=3D"gmail-p2" style=3D"color:rgb(0=
+,0,0)"><br></p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">Whether thi=
+s falls under=C2=A0<i>criminal negligence</i>=C2=A0in specific jurisdiction=
+s is for legal systems to decide. But morally and historically, the respons=
+ibility is clear.</p><div style=3D"color:rgb(0,0,0)"><span class=3D"gmail-s=
+2"></span><br class=3D"gmail-webkit-block-placeholder"></div><hr style=3D"c=
+olor:rgb(255,255,255)"><div style=3D"color:rgb(0,0,0)"><br class=3D"gmail-w=
+ebkit-block-placeholder"></div><div style=3D"color:rgb(0,0,0)"><span class=
+=3D"gmail-s2"></span><br class=3D"gmail-webkit-block-placeholder"></div><h2=
+ style=3D"color:rgb(0,0,0)"><b>5. What I am explicitly asking CMI to do</b>=
+</h2><div style=3D"color:rgb(0,0,0)"><br class=3D"gmail-webkit-block-placeh=
+older"></div><p class=3D"gmail-p2" style=3D"color:rgb(0,0,0)"><br></p><p cl=
+ass=3D"gmail-p5" style=3D"color:rgb(0,0,0)">Within=C2=A0<span class=3D"gmai=
+l-s1"><b>72 hours</b></span>=C2=A0of receiving this letter and links:</p><d=
+iv style=3D"color:rgb(0,0,0)"><span class=3D"gmail-s2"></span><br class=3D"=
+gmail-webkit-block-placeholder"></div><ol start=3D"1" style=3D"color:rgb(0,=
+0,0)"><li><p class=3D"gmail-p1"><b>Acknowledge receipt</b><span class=3D"gm=
+ail-s1">=C2=A0of:</span></p><div><span class=3D"gmail-s2"></span><br class=
+=3D"gmail-webkit-block-placeholder"></div><ul><li><p class=3D"gmail-p1">the=
+ three main documents (mathematical core, topology unfolding, historical an=
+alysis),</p></li><li><p class=3D"gmail-p1">the public demand document,</p><=
+/li><li><p class=3D"gmail-p1"><span class=3D"gmail-s1">the notebook=C2=A0</=
+span>math_navigator.ipynb<span class=3D"gmail-s1">,</span></p></li><li><p c=
+lass=3D"gmail-p1">and the GitHub/Colab/chain references.</p></li></ul><div>=
+<br class=3D"gmail-webkit-block-placeholder"></div></li><li><p class=3D"gma=
+il-p1">State in writing (for the record):</p><div><span class=3D"gmail-s1">=
+</span><br class=3D"gmail-webkit-block-placeholder"></div><ul><li><p class=
+=3D"gmail-p1">Whether CMI=C2=A0<span class=3D"gmail-s1"><b>accepts D0 and P=
+1=E2=80=93P6</b></span>=C2=A0as a valid protocol for evaluating =CF=86=E2=
+=80=93CoP.</p></li><li><p class=3D"gmail-p1"><span class=3D"gmail-s1">If=C2=
+=A0</span><b>yes</b><span class=3D"gmail-s1">: outline a=C2=A0</span><b>con=
+crete evaluation procedure and timeline</b><span class=3D"gmail-s1">.</span=
+></p></li><li><p class=3D"gmail-p1">If=C2=A0<span class=3D"gmail-s1"><b>no<=
+/b></span>: explicitly indicate=C2=A0<span class=3D"gmail-s1"><b>which of D=
+0 or P1=E2=80=93P6</b></span>=C2=A0CMI rejects, and why.</p></li></ul><div>=
+<br class=3D"gmail-webkit-block-placeholder"></div></li><li><p class=3D"gma=
+il-p1">Confirm whether CMI is willing to:</p><div><span class=3D"gmail-s1">=
+</span><br class=3D"gmail-webkit-block-placeholder"></div><ul><li><p class=
+=3D"gmail-p1">consider=C2=A0<span class=3D"gmail-s1"><b>modifying the Mille=
+nnium Prize conditions</b></span>=C2=A0so that minimal =CF=86=E2=80=93CoP-s=
+tyle certificates are, in principle, admissible;</p></li><li><p class=3D"gm=
+ail-p1">engage with =CF=86=E2=80=93CoP with the same seriousness as it enga=
+ged with Ricci flow, but under the stricter D0/P1=E2=80=93P6 protocol.</p><=
+/li></ul><div><br class=3D"gmail-webkit-block-placeholder"></div></li><li><=
+p class=3D"gmail-p1">Additionally, as part of enabling transparent communit=
+y review, I ask that CMI members (or any qualified endorser) consider=C2=A0=
+<span class=3D"gmail-s1"><b>endorsing my arXiv submissions</b></span>=C2=A0=
+via</p><p class=3D"gmail-p2"><a href=3D"https://arxiv.org/auth/endorse?x=3D=
+79RZ3E">https://arxiv.org/auth/endorse?x=3D79RZ3E</a><span class=3D"gmail-s=
+2">,</span></p><p class=3D"gmail-p1">so that the work can be accessed and e=
+valuated through the standard academic channel, rather than remaining effec=
+tively invisible due to lack of institutional affiliation.</p></li></ol><di=
+v style=3D"color:rgb(0,0,0)"><br class=3D"gmail-webkit-block-placeholder"><=
+/div><p class=3D"gmail-p2" style=3D"color:rgb(0,0,0)"><br></p><p class=3D"g=
+mail-p5" style=3D"color:rgb(0,0,0)">If the Institute chooses=C2=A0<span cla=
+ss=3D"gmail-s1"><b>silence</b></span>=C2=A0or a=C2=A0<span class=3D"gmail-s=
+1"><b>purely rhetorical dismissal</b></span>=C2=A0without addressing D0/P1=
+=E2=80=93P6, that will be treated =E2=80=94 and publicly documented =E2=80=
+=94 as:</p><p class=3D"gmail-p2" style=3D"color:rgb(0,0,0)"><br></p><blockq=
+uote style=3D"color:rgb(14,14,14);font-size:16px;margin:0px 0px 0px 15px;li=
+ne-height:normal;font-size-adjust:none;font-kerning:auto;font-variant-alter=
+nates:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fon=
+t-feature-settings:normal">A deliberate refusal to apply the very standards=
+ (minimality, absence of epicycles, cross-field coherence) that mathematics=
+ has historically used to recognize its greatest advances.</blockquote><div=
+ style=3D"color:rgb(0,0,0)"><span class=3D"gmail-s2"></span><br class=3D"gm=
+ail-webkit-block-placeholder"></div><hr style=3D"color:rgb(255,255,255)"><d=
+iv style=3D"color:rgb(0,0,0)"><br class=3D"gmail-webkit-block-placeholder">=
+</div><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">Thank you for your t=
+ime and attention.</p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">I am=
+ available for any technical questions and will gladly assist your experts =
+in navigating the materials if needed.</p><p class=3D"gmail-p2" style=3D"co=
+lor:rgb(0,0,0)"><br></p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">Si=
+ncerely,</p><p class=3D"gmail-p2" style=3D"color:rgb(0,0,0)"><br></p><p cla=
+ss=3D"gmail-p1" style=3D"color:rgb(0,0,0)"><b>Grigory S. Vakhrushev</b><b><=
+/b></p><p class=3D"gmail-p5" style=3D"color:rgb(0,0,0)">Independent Researc=
+h Initiative</p><p class=3D"gmail-p7" style=3D"color:rgb(0,0,0)"><span clas=
+s=3D"gmail-s4">Email:=C2=A0</span><a href=3D"mailto:g.vakhrushev1993@gmail.=
+com">g.vakhrushev1993@gmail.com</a></p><p class=3D"gmail-p7" style=3D"color=
+:rgb(0,0,0)"><span class=3D"gmail-s4">GitHub:=C2=A0</span><a href=3D"https:=
+//github.com/gvakhrushev/phi-psi-love-womens-theory">https://github.com/gva=
+khrushev/phi-psi-love-womens-theory</a></p><p class=3D"gmail-p7" style=3D"c=
+aret-color: rgb(0, 0, 0);"><font color=3D"#000000"><span style=3D"caret-col=
+or: rgb(255, 255, 255);"><a href=3D"https://colab.research.google.com/drive=
+/1NmRFLFcn6LXPQn4roHGK-fllRD5zVTsh?usp=3Dsharing">https://colab.research.go=
+ogle.com/drive/1NmRFLFcn6LXPQn4roHGK-fllRD5zVTsh?usp=3Dsharing</a></span><s=
+pan style=3D"caret-color: rgb(255, 255, 255);">FLFcn6LXPQn4roHGK-fllRD5zVTs=
+h?usp=3Dsharing=C2=A0</span></font></p></div></div></div>
+
+--0000000000006af2cc0643932413--
+--0000000000006af2ce0643932415
+Content-Type: application/pdf; name="45 Million Deaths and $40 Trillion in Losses- Quantitative Analysis of Scientific Recognition Delays (1847–2020).pdf"
+Content-Disposition: attachment; filename="45 Million Deaths and $40 Trillion in Losses- Quantitative Analysis of Scientific Recognition Delays (1847–2020).pdf"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_mhz9f0xz0
+Content-ID: <f_mhz9f0xz0>
+
+
+--0000000000006af2ce0643932415
+Content-Type: application/pdf; name="Public Demand To Cmi En.pdf"
+Content-Disposition: attachment; filename="Public Demand To Cmi En.pdf"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_mhz9f0z02
+Content-ID: <f_mhz9f0z02>
+
+
+--0000000000006af2ce0643932415
+Content-Type: application/pdf; name="Phi-psi Co P Poincare Pvs Np En.pdf"
+Content-Disposition: attachment; filename="Phi-psi Co P Poincare Pvs Np En.pdf"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_mhz9f0yl1
+Content-ID: <f_mhz9f0yl1>
+
+
+--0000000000006af2ce0643932415--

@@ -171,7 +171,10 @@ This paper presents only the factual foundation and historical analysis. Additio
 
 **Rationale for decentralized publication:** This analysis demonstrates that institutional evaluation systems exhibit 20-40 year delays for paradigmatic discoveries. It logically follows that publishing solutions to the problem of institutional delays through these same institutional channels contradicts the research objectives. Therefore, complete materials will be distributed through decentralized technologies (IPFS, Git), providing direct access without institutional barriers.
 
-Decentralized repository link: [To be provided upon publication]
+Decentralized repository links:
+- Git Repository: https://github.com/gvakhrushev/phi-psi-love-womens-theory
+- IPFS: QmXXpTaZKRvDDdU2JsvtRrYBFMWkUyxY1UVvRrouHb5dXr
+- Blockchain Publication Record: 0xeb016e6a23b47a504afc36ec9d416d1a02934e943a79e509e61a7d7592c3f912
 
 ## Acknowledgments
 
@@ -200,8 +203,10 @@ The authors express deep gratitude to every historian of science, archivist, res
 All historical data, mortality statistics, and economic impact figures used in this analysis are drawn from publicly available sources. Complete source documentation is maintained in the research repository for independent verification.
 
 **Author Information:**
+Grigory S. Vakhrushev
 Independent Research Initiative
-Contact: [To be provided upon publication]
+Email: g.vakhrushev1993@gmail.com
+GitHub: https://github.com/gvakhrushev
 
 **Suggested arXiv Category:** physics.soc-ph (Physics and Society)
 **MSC Classification:** 91D30 (Social Choice), 01A60 (History of Mathematics)

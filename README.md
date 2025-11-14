@@ -2,6 +2,7 @@
 
 **Статус**: Готово к публикации
 **ArXiv статья**: [45 Million Deaths and $40 Trillion in Losses: Quantitative Analysis of Scientific Recognition Delays](ARXIV_SUBMISSION.md)
+**F-operator live proof**: [ArXiv заблокировал автора - живое доказательство F-оператора!](F_OPERATOR_PROOF_ARXIV.md) 😂
 **Данные публикации**: [PUBLICATION_DATA.md](PUBLICATION_DATA.md) - seed фраза, IPFS хеши, ETH транзакции
 
 ---

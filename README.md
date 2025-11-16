@@ -49,7 +49,7 @@
 
 ### 🎬 ПОСЛЕ 72 ЧАСОВ:
 
-[![Это вполне тянет на шедевр!](https://img.youtube.com/vi/FNcxj54qtyk/0.jpg)](https://www.youtube.com/watch?v=FNcxj54qtyk&t=1s)
+[![Мои полотна сотканы из моих достоинств и недостатков](https://img.youtube.com/vi/TV73UGRPCxg/0.jpg)](https://www.youtube.com/watch?v=FNcxj54qtyk&t=1s) | [![Это вполне тянет на шедевр!](https://img.youtube.com/vi/FNcxj54qtyk/0.jpg)](https://www.youtube.com/watch?v=FNcxj54qtyk&t=1s)
 
 > **"Это вполне тянет на шедевр!"** — *Бесславные ублюдки*
 

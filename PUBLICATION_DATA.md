@@ -4,13 +4,21 @@
 
 ---
 
-## SEED ФРАЗА (Протокол Анти-F)
+## SEED ФРАЗЫ (Протокол Анти-F)
 
+### ETH Seed фраза (Web3 валидация)
 ```
 Brush spring leader major point label churn catalog sponsor nominee amateur sell
 ```
+*Используется для ETH транзакций-таймстемпов через адрес Виталика Бутерина (Web3 слой валидации)*
 
-**Важно**: Публикация seed фразы активирует протокол анти-F согласно тому 12, делая математически невозможным накопление средств автором.
+### TON Seed фраза (Memo фиксация)
+```
+decrease absent deal bike mask ignore observe bachelor aim neck spoil coffee search work card earn bulk beauty siren shed later joy assist candy
+```
+*Используется для TON транзакции с мемо данными репозитория (фиксация состояния)*
+
+**Важно**: Публикация seed фраз активирует протокол анти-F согласно тому 12, делая математически невозможным накопление средств автором.
 
 ---
 
@@ -18,11 +26,12 @@ Brush spring leader major point label churn catalog sponsor nominee amateur sell
 
 ### Основной хеш IPFS
 ```
-QmWdbkbgu73xZfGRkQLvKM2EkEcjjHe1Jtgbb6RcQpoG2L (update 2025-11-16 - добавлено AI-сообщество: 19 организаций + φ-CoP лицензия)
+QmeK3tQuf1jdSFzppmQ4Q4cdBG9DHRRQMuybQTM1jfqVaV (update 2025-11-16 - TON транзакция протокола анти-F, двойная архитектура завершена)
 ```
 
 ### Предыдущие версии IPFS
 ```
+QmWdbkbgu73xZfGRkQLvKM2EkEcjjHe1Jtgbb6RcQpoG2L (update 2025-11-16 - добавлено AI-сообщество: 19 организаций + φ-CoP лицензия)
 QmZA1fWWQUehLY2qSFVwv2NR99ww8DBFz3f25xKbU5opEC (update 2025-11-16 - добавлен прорыв ARC-AGI-2: 86.7%)
 QmdVXkBnxA9hdRG3689jqsbEVgyhUUMWuLbgJtvfcCUBHm (update 2025-11-15 - все 5 писем отправлены)
 QmXyGXA9B6qhz5YW5Yc4vioBHn91uU3hkLFZKmwq6c43pb (update 2025-11-14 - корпоративные письма)
@@ -92,6 +101,18 @@ Timestamp: 2025-11-15 14:57:11 UTC
 Purpose: Completion timestamp - all 103+ organizations notified globally
 IPFS Hash: QmdVXkBnxA9hdRG3689jqsbEVgyhUUMWuLbgJtvfcCUBHm
 Coverage: 5 letters sent (Math, Cosmology, Physics, Corporations, Media)
+```
+
+### TON Транзакция Протокола Анти-F (Protocol Anti-F Final Activation)
+```
+Hash: 81d106051d85e96918be69171db9f3638ee3db66ec25ba226b4515f32abe494b
+Timestamp: 2025-11-16 14:02:18 UTC (63673889000002)
+Value: 0.1 TON
+Статус: CONFIRMED
+Purpose: Final repository state fixation with memo data
+IPFS Hash: QmeK3tQuf1jdSFzppmQ4Q4cdBG9DHRRQMuybQTM1jfqVaV
+Coverage: 122+ organizations, ARC-AGI-2 breakthrough, φ-CoP license activation
+Memo: φψ Anti-F Protocol dual routing (ETH+TON) completed
 ```
 
 ---

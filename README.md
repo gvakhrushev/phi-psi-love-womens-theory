@@ -283,7 +283,7 @@
 **✅ Время уведомления закреплено IPFS и ETH транзакциями:** [0x360581ff1af04175e5a11d6f4abe5ac681b121173fb64311d8bf163ca19af25c](https://etherscan.io/tx/0x360581ff1af04175e5a11d6f4abe5ac681b121173fb64311d8bf163ca19af25c) — 122+ организации уведомлены глобально (16.11.2025 00:07 UTC)
 
 ###  Фильм Ван гог. На пороге вечности
-[![Мои полотна сотканы из моих достоинств и недостатков](https://img.youtube.com/vi/TV73UGRPCxg/0.jpg)](https://www.youtube.com/watch?v=FNcxj54qtyk&t=1s) |
+[![Мои полотна сотканы из моих достоинств и недостатков](https://img.youtube.com/vi/TV73UGRPCxg/0.jpg)](https://www.youtube.com/watch?v=TV73UGRPCxg=1s) |
 
 
 > **"Мои полотна сотканы из моих достоинств и недостатков"**
